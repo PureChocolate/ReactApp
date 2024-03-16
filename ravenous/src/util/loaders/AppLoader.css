@@ -1,0 +1,15 @@
+.app-loader {
+    position: fixed;
+    top: 0;
+    min-width: 100vw;
+    min-height: 100vh;
+    background: #fff;
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.app-loader img {
+    min-width: 60px;
+}
